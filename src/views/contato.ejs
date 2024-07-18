@@ -11,14 +11,6 @@
 
             <%- include('includes/messages') %>
 
-            <!-- <% if(contato._id) { %> 
-            <form action="/contato/edit/<%= contato._id %>" method="post">
-            <% } else { %>
-            <form action="/contato/register" method="post">
-            <% } %> -->
-            
-            <!-- ou seja, se existir o contato, vai para a rota edit, se não, vai para a rota register -->
-
             <form class="form-contato"
             <% if(contato._id) { %>
                 action="/contato/edit/<%= contato._id %>" 
