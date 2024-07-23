@@ -1,7 +1,7 @@
 # Projeto Agenda
 Uma simples agenda com login, adicionar, editar e excluir contatos.
 
-### 👉 [Vídeo do projeto](https://youtu.be/aG6yPrYZAs4)
+### 👉 <a href="https://youtu.be/aG6yPrYZAs4" target="_blank">Vídeo do projeto</a>
 
 ## Índice
 - [Sobre o projeto](#sobre-o-projeto);
